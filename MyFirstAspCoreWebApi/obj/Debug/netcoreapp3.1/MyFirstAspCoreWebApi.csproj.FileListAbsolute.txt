@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\MyFirstAspCoreWebApi\MyFirstAspCoreWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\source\repos\MyFirstAspCoreWebApi\MyFirstAspCoreWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\source\repos\MyFirstAspCoreWebApi\MyFirstAspCoreWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\source\repos\MyFirstAspCoreWebApi\MyFirstAspCoreWebApi\obj\Debug\netcoreapp3.1\MyFirstAspCoreWebApi.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MyFirstAspCoreWebApi\MyFirstAspCoreWebApi\obj\Debug\netcoreapp3.1\MyFirstAspCoreWebApi.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyFirstAspCoreWebApi\MyFirstAspCoreWebApi\obj\Debug\netcoreapp3.1\MyFirstAspCoreWebApi.AssemblyInfo.cs
+C:\Users\user\source\repos\MyFirstAspCoreWebApi\MyFirstAspCoreWebApi\obj\Debug\netcoreapp3.1\MyFirstAspCoreWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\MyFirstAspCoreWebApi\MyFirstAspCoreWebApi\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstAspCoreWebApi.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\MyFirstAspCoreWebApi\MyFirstAspCoreWebApi\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstAspCoreWebApi.StaticWebAssets.xml
